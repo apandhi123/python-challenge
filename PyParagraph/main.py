@@ -40,3 +40,4 @@ print("Number of words: " + str(num_words))
 print("Number of sentences: " + str(sentences))
 print("Average characters per word: " + str(average_chars))
 print("Average sentence lenght: "+str(average_sentence))
+
